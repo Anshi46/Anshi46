@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Anshi46
-- 👀 I’m interested in .  C++ projects
-- 🌱 I’m currently learning .github
-- 💞️ I’m looking to collaborate on . organizations.
-- 📫 How to reach me ... through email
+- 👀 I’m interested in .  
+- 🌱 I’m currently learn
+- 💞️ I’m looking to collaborate on . 
+- 📫 How to reach me ...
 
 <!---
 Anshi46/Anshi46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
